@@ -63,72 +63,12 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
     </body>
 </html>
 ```
-
-## Home.html:
-
-```python
-<h1 align="center">
-    <font color="blue" face="cursive">
-        MY HOME
-    </font>
-</h1>
-<p align="center">
-    <font color="black" face="Comic Sans MS" size="24">
-        <OL  TYPE="1" START="1">
-            <LI>This is where i reside.<br></LI>     
-            <LI>I live with a small and sweet family.<br></LI>
-            <LI>My house is my comfort zone where I feel peace and relaxed..<br></LI>
-            <LI>A feeling of affinity arises when i hear the word 'HOME'.<br></LI>
-        </OL>
-
-
-    </font>
-    <font color ="red" face = "cursive" size="16" > 
-    "HOME IS WHERE THE HEART IS"
-    </font>
-
-
-
-
-</p>
-```
-## Hospital.html:
-
-```python
-<!DOCTYPE html>
+## arakkonam.html:
+```python<!DOCTYPE html>
 <html>
 <head>
     <title>
-        HOSPITAL
-    </title>
-</head>
-<body bgcolor="premium">
-<h1 align="center">
-    <font color="silver" face="body">
-        HOSPITAL
-    </font>
-</h1>
-<p align="center">
-    <font color="black" face="Comic Sans MS" size="24">
-        <OL  TYPE="1" START="1">
-            <LI>A place where you diagnose and treat your diseases.
-        </OL>
-    </font>
-    <font color ="red" face = "cursive" size="16" > 
-    "A hospital alone shows what war is."
-    </font>
-</p>
-</body>
-</html>
-```
-## Park.html:
-
-```python
-<!DOCTYPE html>
-<html>
-<head>
-    <title>
-        PARK
+        ARAKKONAM
     </title>
 </head>
 <body bgcolor="red">
@@ -139,59 +79,94 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 </h1>
 <p align="center">
     <font color="yellow" face="stretch" size="24">
-            <LI>A place surrounded with greens and fresh air.
-            <LI>A place where children play with more happiness.
+            <LI>This is a place where the INS Rajali navy is located.
     </font>
 </p>
 </body>
 </html>
-```
-### Temple.html:
 
+```
+## akm junction.html:
 ```python
-<!DOCTYPE html>
-<html>
-<head>
-    <title>
-        TEMPLE
-    </title>
-</head>
-<body bgcolor="green">
 <h1 align="center">
     <font color="blue" face="cursive">
-        TEMPLE
+        AKM JUNCTION
     </font>
 </h1>
 <p align="center">
     <font color="black" face="Comic Sans MS" size="24">
         <OL  TYPE="1" START="1">
-            <LI>A place where god resides.
+            <LI>The railway station is an area where the trains stop to leave and board passengers and goods.<br></LI>     
+            <LI> One railway station can be found out in every city and village.<br></LI>
+            <LI>The railway stations are small and big depending upon the location.<br></LI>
         </OL>
-    </font>
-</p>
-</body>
-</html>
-```
-### College.html:
 
+
+    </font>
+    <font color ="red" face = "cursive" size="16" > 
+    "The world’s first railway station was The Mount that is located in Swansea, Wales on the Oystermouth railway."
+    </font>
+
+
+
+
+</p>
+```
+## akm bus stand.html:
 ```python
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        BUS STAND
+    </title>
 </head>
-<body bgcolor="silver">
+<body bgcolor="premium">
 <h1 align="center">
-    <font color="blue" face="College">
-        SAVEETHA ENGINEERING COLLEGE
+    <font color="silver" face="body">
+        BUS STAND
     </font>
 </h1>
 <p align="center">
-    <font color="red" face="body" size="24">
+    <font color="black" face="Comic Sans MS" size="24">
         <OL  TYPE="1" START="1">
-            <LI>Educational Institution
+            <LI>A place where all buses are stopped.
+        </OL>
+    </font>
+    <font color ="red" face = "cursive" size="16" > 
+    "A designated parking location where a bus or coach waits out of service between scheduled public transport services. "
+    </font>
+</p>
+</body>
+</html>
+```
+## GRT jewellery.html:
+```python
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        GRT Jewellery
+    </title>
+</head>
+<body bgcolor="green">
+<h1 align="center">
+    <font color="blue" face="cursive">
+        jewellery
+    </font>
+</h1>
+<p align="center">
+    <font color="black" face="Comic Sans MS" size="24">
+        <OL  TYPE="1" START="1">
+            <LI>A place where gold,sliver diamonds etc.. are sold.
         </OL>
     </font>
 </p>
 </body>
 </html>
 ```
+### sweet stall.html:
+
 ## Output:
 ## CLIENT OUTPUT:
 ## SERVER OUTPUT:
