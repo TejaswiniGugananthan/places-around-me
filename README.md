@@ -197,4 +197,4 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 ![Screenshot (80)](https://user-images.githubusercontent.com/121222763/234482410-fedf59f3-f351-4d2e-add4-1ad4d6b7e9ad.png)
 
 ## Result:
-
+Code is sucessfully verified.
