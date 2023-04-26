@@ -167,7 +167,24 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 </html>
 ```
 ### sweet stall.html:
-
+```python
+</head>
+<body bgcolor="silver">
+<h1 align="center">
+    <font color="blue" face="Dental">
+        SWEET STALL
+    </font>
+</h1>
+<p align="center">
+    <font color="red" face="body" size="24">
+        <OL  TYPE="1" START="1">
+            <LI>A place where sweets are sold.
+        </OL>
+    </font>
+</p>
+</body>
+</html>
+```
 ## Output:
 ## CLIENT OUTPUT:
 ## SERVER OUTPUT:
