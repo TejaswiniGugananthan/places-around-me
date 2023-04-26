@@ -64,7 +64,8 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 </html>
 ```
 ## arakkonam.html:
-```python<!DOCTYPE html>
+```python
+<!DOCTYPE html>
 <html>
 <head>
     <title>
