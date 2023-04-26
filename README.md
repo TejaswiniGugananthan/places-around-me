@@ -39,15 +39,16 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
         </h3>
         <center>
         <img id="Image-Maps-Com-image-maps-2023-04-22-031004" src="https://app.image-maps.com/m/private/0/nhfjtmer82vjk9pfp2r41n9qep_map.png" border="0" width="1920" height="980" orgWidth="1920" orgHeight="980" usemap="#image-maps-2023-04-22-031004" alt="" />
-<map name="image-maps-2023-04-22-031004" id="ImageMapsCom-image-maps-2023-04-22-031004">
-<area  alt="" title="Hospital" href="http://www.image-maps.com/" shape="rect" coords="1177,401,1227,451" style="outline:none;" target="_self"     />
-<area  alt="" title="College" href="http://www.image-maps.com/" shape="rect" coords="579,654,629,704" style="outline:none;" target="_self"     />
-<area  alt="" title="Temple" href="http://www.image-maps.com/" shape="rect" coords="1453,685,1503,735" style="outline:none;" target="_self"     />
-<area  alt="" title="Theatre" href="http://www.image-maps.com/" shape="rect" coords="1600.0000305175781,164,1650.0000305175781,214" style="outline:none;" target="_self"     />
-<area  alt="" title="Apartment" href="http://www.image-maps.com/" shape="rect" coords="1057,702.0000076293945,1107,752.0000076293945" style="outline:none;" target="_self"     />
-<area  alt="" title="Park" href="http://www.image-maps.com/" shape="rect" coords="1431.0000305175781,819,1481.0000305175781,869" style="outline:none;" target="_self"     />
-<area shape="rect" coords="1918,978,1920,980" alt="Image Map" style="outline:none;" title="Image Map" href="https://www.image-maps.com/" />
+<img id="Image-Maps-Com-image-maps-2023-04-26-035254" src="https://app.image-maps.com/m/private/0/bci1nusrhmeligorlqfer37te8_screenshot-73.png" border="0" width="1920" height="1080" orgWidth="1920" orgHeight="1080" usemap="#image-maps-2023-04-26-035254" alt="" />
+<map name="image-maps-2023-04-26-035254" id="ImageMapsCom-image-maps-2023-04-26-035254">
+<area  alt="" title="arakkonam" href="http://www.image-maps.com/" shape="rect" coords="954,576,1004,626" style="outline:none;" target="_self"     />
+<area  alt="" title="akm junction" href="http://www.image-maps.com/" shape="rect" coords="778,666,828,716" style="outline:none;" target="_self"     />
+<area  alt="" title="akm bus stand" href="http://www.image-maps.com/" shape="rect" coords="650,533,700,583" style="outline:none;" target="_self"     />
+<area  alt="" title="GRT jewellery" href="http://www.image-maps.com/" shape="rect" coords="658,408,708,458" style="outline:none;" target="_self"     />
+<area  alt="" title="sweet stall" href="http://www.image-maps.com/" shape="rect" coords="814,541,864,591" style="outline:none;" target="_self"     />
+<area shape="rect" coords="1918,1078,1920,1080" alt="Image Map" style="outline:none;" title="Image Map" href="https://www.image-maps.com/" />
 </map>
+
 
 
 
