@@ -2,7 +2,7 @@
 ## AIM:
 To develop a website to display details about the places around my house.
 
-## Design Steps:
+## DESIGN STEPS:
 
 ### Step 1:
 Write your own steps here.
@@ -33,7 +33,7 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
         </h1>
         <h3 align="center">
         <font color="blue" face ="cursive">
-            Leann Joby Mathew (212222230074)
+            Tejaswini G (212222230157)
         </font>
             
         </h3>
@@ -139,12 +139,14 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 <p align="center">
     <font color="yellow" face="stretch" size="24">
             <LI>A place surrounded with greens and fresh air.
+            <LI>A place where children play with more happiness.
     </font>
 </p>
 </body>
 </html>
+```
+### Temple.html:
 
-### Temple.html
 ```python
 <!DOCTYPE html>
 <html>
@@ -175,8 +177,8 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 </head>
 <body bgcolor="silver">
 <h1 align="center">
-    <font color="blue" face="Dental">
-        SEC DENTAL COLLEGE
+    <font color="blue" face="College">
+        SAVEETHA ENGINEERING COLLEGE
     </font>
 </h1>
 <p align="center">
